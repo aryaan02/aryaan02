@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryaan02
 - 👀 I’m interested in efficient algorithm design, full-stack development, and data science.
-- 🌱 I’m currently learning advanced Python programming and intermediate HTML/CSS.
+- 🌱 I’m currently learning React.js for frontend development.
 - 📫 Contact me through my email: aryaan.khan@yale.edu
 
 <!---
